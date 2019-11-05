@@ -1,0 +1,11 @@
+/Users/maxmaher/Documents/Professional-Development/C-Sharp/Spike - Job Hunt Simulator/SpikeJobHuntSimulator/SpikeJobHuntSimulator/bin/Debug/netcoreapp3.0/SpikeJobHuntSimulator
+/Users/maxmaher/Documents/Professional-Development/C-Sharp/Spike - Job Hunt Simulator/SpikeJobHuntSimulator/SpikeJobHuntSimulator/bin/Debug/netcoreapp3.0/SpikeJobHuntSimulator.deps.json
+/Users/maxmaher/Documents/Professional-Development/C-Sharp/Spike - Job Hunt Simulator/SpikeJobHuntSimulator/SpikeJobHuntSimulator/bin/Debug/netcoreapp3.0/SpikeJobHuntSimulator.runtimeconfig.json
+/Users/maxmaher/Documents/Professional-Development/C-Sharp/Spike - Job Hunt Simulator/SpikeJobHuntSimulator/SpikeJobHuntSimulator/bin/Debug/netcoreapp3.0/SpikeJobHuntSimulator.runtimeconfig.dev.json
+/Users/maxmaher/Documents/Professional-Development/C-Sharp/Spike - Job Hunt Simulator/SpikeJobHuntSimulator/SpikeJobHuntSimulator/bin/Debug/netcoreapp3.0/SpikeJobHuntSimulator.dll
+/Users/maxmaher/Documents/Professional-Development/C-Sharp/Spike - Job Hunt Simulator/SpikeJobHuntSimulator/SpikeJobHuntSimulator/bin/Debug/netcoreapp3.0/SpikeJobHuntSimulator.pdb
+/Users/maxmaher/Documents/Professional-Development/C-Sharp/Spike - Job Hunt Simulator/SpikeJobHuntSimulator/SpikeJobHuntSimulator/obj/Debug/netcoreapp3.0/SpikeJobHuntSimulator.csprojAssemblyReference.cache
+/Users/maxmaher/Documents/Professional-Development/C-Sharp/Spike - Job Hunt Simulator/SpikeJobHuntSimulator/SpikeJobHuntSimulator/obj/Debug/netcoreapp3.0/SpikeJobHuntSimulator.AssemblyInfoInputs.cache
+/Users/maxmaher/Documents/Professional-Development/C-Sharp/Spike - Job Hunt Simulator/SpikeJobHuntSimulator/SpikeJobHuntSimulator/obj/Debug/netcoreapp3.0/SpikeJobHuntSimulator.AssemblyInfo.cs
+/Users/maxmaher/Documents/Professional-Development/C-Sharp/Spike - Job Hunt Simulator/SpikeJobHuntSimulator/SpikeJobHuntSimulator/obj/Debug/netcoreapp3.0/SpikeJobHuntSimulator.dll
+/Users/maxmaher/Documents/Professional-Development/C-Sharp/Spike - Job Hunt Simulator/SpikeJobHuntSimulator/SpikeJobHuntSimulator/obj/Debug/netcoreapp3.0/SpikeJobHuntSimulator.pdb

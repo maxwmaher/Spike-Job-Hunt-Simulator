@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": []
+  },
+  "packageFolders": {
+    "/Users/maxmaher/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/maxmaher/Documents/Professional-Development/C-Sharp/Spike - Job Hunt Simulator/SpikeJobHuntSimulator/SpikeJobHuntSimulator/SpikeJobHuntSimulator.csproj",
+      "projectName": "SpikeJobHuntSimulator",
+      "projectPath": "/Users/maxmaher/Documents/Professional-Development/C-Sharp/Spike - Job Hunt Simulator/SpikeJobHuntSimulator/SpikeJobHuntSimulator/SpikeJobHuntSimulator.csproj",
+      "packagesPath": "/Users/maxmaher/.nuget/packages/",
+      "outputPath": "/Users/maxmaher/Documents/Professional-Development/C-Sharp/Spike - Job Hunt Simulator/SpikeJobHuntSimulator/SpikeJobHuntSimulator/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/maxmaher/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
