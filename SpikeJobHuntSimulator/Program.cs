@@ -26,21 +26,23 @@ namespace SpikeJobHuntSimulator
 
             static void CheckExperience(string response) {
                 Experience selection = new Experience(response);
-                if (selection.Selection == "a")
+                switch (selection.Selection)
                 {
-                    Console.WriteLine("Tech support, huh?  Are you sure you're ready to hunt for development work?");
-                } else if (selection.Selection == "b")
-                {
-                    Console.WriteLine("Lovely, and I'm sure your articles were solely responsible for keeping it alive.");
-                } else if (selection.Selection == "c")
-                {
-                    Console.WriteLine("The Republicrats?  I would keep that information to yourself if I were you.");
-                } else
-                {
-                    Console.WriteLine("Hey!  This game really isn't that hard.  Just enter a, b, or c, all lowercase.  Simple, right?  Let's try this again.");
-                    Console.Write("Answer: ");
-                    string userResponse = Console.ReadLine();
-                    CheckExperience(userResponse);
+                    case "a":
+                        Console.WriteLine("Tech support, huh?  Are you sure you're ready to hunt for development work?");
+                        break;
+                    case "b":
+                        Console.WriteLine("Lovely, and I'm sure your articles were solely responsible for keeping it alive.");
+                        break;
+                    case "c":
+                        Console.WriteLine("The Republicrats?  I would keep that information to yourself if I were you.");
+                        break;
+                    default:
+                        Console.WriteLine("Hey!  This game really isn't that hard.  Just enter a, b, or c, all lowercase.  Simple, right?  Let's try this again.");
+                        Console.Write("Answer: ");
+                        string userResponse = Console.ReadLine();
+                        CheckExperience(userResponse);
+                        break;
                 }
             }
 
